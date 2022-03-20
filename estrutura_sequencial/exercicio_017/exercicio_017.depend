@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647695833 source:/home/ricardo/codeblocks/estrutura_sequencial/exercicio_017/main.c
+	<stdio.h>
+	<stdlib.h>
+
